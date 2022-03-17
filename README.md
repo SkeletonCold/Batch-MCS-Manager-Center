@@ -1,2 +1,2 @@
-# Batch-MCS-Manger-Center
-A "Minecraft Server" manger tools with windows batch
+# Batch Minecraft Server Manager Center
+
